@@ -22,3 +22,5 @@ else if(pthread_equal(id,tid[1])){
 else if(pthread_equal(id,tid[2])){
 }
 if(
+}
+}

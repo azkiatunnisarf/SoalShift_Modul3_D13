@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #include<stdio.h>
 #include<string.h>
 #include<pthread.h>
@@ -22,7 +21,7 @@ for(a=0;a<n[i];a++){
 	}
 return NULL;
 }
-=======
+/*
 
 #include <stdio.h>
 #include <string.h>
@@ -47,6 +46,4 @@ int main(){
         while(1){
 
         }
-}
-
->>>>>>> abb500bc3b2bbecd8a92baaaabf95844d6e43094
+}*/
